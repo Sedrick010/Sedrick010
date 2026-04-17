@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sedrick (@sedrick010)
+# 👋 Hi, I'm Sedrick (@Sedrick010)
 ---
 
 * Developer Trainee currently on OJT.
