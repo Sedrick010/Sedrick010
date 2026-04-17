@@ -20,8 +20,7 @@
 
 # ⚡ When I'm Not Coding
 
-* 🎮 Grinding **Call of Duty: Mobile** (always waiting for the "For You" store to refresh with good operator skins like Rin Yoshida).
-* ⚔️ Playing Soulslike games—recently took down the Asylum Demon.
+* 🎮 Grinding games like call of duty and Dark Souls
 * 🏋️‍♂️ Keeping up with my 4-day upper/lower split using my custom DIY dumbbells!
 
 # 🔥 Streak Stats
