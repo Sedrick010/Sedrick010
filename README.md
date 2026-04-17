@@ -29,3 +29,30 @@
 * 🎮 Grinding **Call of Duty: Mobile** (always waiting for the "For You" store to refresh with good operator skins like Rin Yoshida).
 * ⚔️ Playing Soulslike games—recently took down the Asylum Demon.
 * 🏋️‍♂️ Keeping up with my 4-day upper/lower split using my custom DIY dumbbells!
+
+## 🔥 Streak Stats
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sedrick010&theme=tokyonight&hide_border=true)](https://github.com/sedrick010)
+
+## ⏳ Time Spent Coding
+---
+
+> **Note:** To make this WakaTime card work, you need to have a [WakaTime](https://wakatime.com/) account integrated with your IDE (like VS Code), and your WakaTime profile must be set to public.
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=sedrick010&theme=tokyonight&hide_border=true)](https://wakatime.com/@sedrick010)
+
+## 📊 GitHub Stats
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sedrick010&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/sedrick010)
+
+## 📈 Most Used Languages
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sedrick010&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/sedrick010)
+
+## 📬 Connect with Me
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sedrick010)
